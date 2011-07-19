@@ -1,0 +1,8 @@
+To recreate this project on your comp, follow the steps:
+1. mkdir Adventure_Game
+
+2. cd Adventure_Game
+
+3. Clone the read-only repo
+
+     git clone git@github.com:nithishpixelcode/Adventure_Game.git
